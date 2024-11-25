@@ -5,6 +5,7 @@ edition = "2021"
 
 # 必须字段
 description = "A short description of what my_crate does"
-documentation = "https://github.com/isLiuyinghao/my_crate"  # 如果有文档链接的话
-repository = "https://github.com/isLiuyinghao/my_crate"  # 如果有 GitHub 仓库的话
-homepage = "https://github.com/isLiuyinghao/my_crate"  # 项目主页链接
+documentation = "https://github.com/isLiuyinghao/my_crate"
+repository = "https://github.com/isLiuyinghao/my_crate" 
+homepage = "https://github.com/isLiuyinghao/my_crate"  
+license = "MIT"
